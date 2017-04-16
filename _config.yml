@@ -9,7 +9,7 @@
 title: The Test Run
 email: n/a
 description: > # this means to ignore newlines until "baseurl:"
-  My name is Tony, and I am confused about most things about programming and web development. This is my first attemt to launch a websit through github and Jekyll
+  My name is Tony, and I am confused about most things about programming and web development. This is my first attempt to launch a website through github and Jekyll
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: tonytudor3
